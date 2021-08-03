@@ -17,11 +17,6 @@ namespace ProjetoConsultaRiotAPI
             InitializeComponent();
         }
 
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
-
         public class Jogador
         {
             public string id { get; set; }
