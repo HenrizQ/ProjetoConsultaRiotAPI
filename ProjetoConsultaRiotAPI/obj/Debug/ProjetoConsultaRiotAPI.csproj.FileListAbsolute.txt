@@ -1,0 +1,10 @@
+C:\Users\Zoio\source\repos\ProjetoConsultaRiotAPI\ProjetoConsultaRiotAPI\bin\Debug\ProjetoConsultaRiotAPI.exe.config
+C:\Users\Zoio\source\repos\ProjetoConsultaRiotAPI\ProjetoConsultaRiotAPI\bin\Debug\ProjetoConsultaRiotAPI.exe
+C:\Users\Zoio\source\repos\ProjetoConsultaRiotAPI\ProjetoConsultaRiotAPI\bin\Debug\ProjetoConsultaRiotAPI.pdb
+C:\Users\Zoio\source\repos\ProjetoConsultaRiotAPI\ProjetoConsultaRiotAPI\obj\Debug\ProjetoConsultaRiotAPI.csproj.AssemblyReference.cache
+C:\Users\Zoio\source\repos\ProjetoConsultaRiotAPI\ProjetoConsultaRiotAPI\obj\Debug\ProjetoConsultaRiotAPI.Form1.resources
+C:\Users\Zoio\source\repos\ProjetoConsultaRiotAPI\ProjetoConsultaRiotAPI\obj\Debug\ProjetoConsultaRiotAPI.Properties.Resources.resources
+C:\Users\Zoio\source\repos\ProjetoConsultaRiotAPI\ProjetoConsultaRiotAPI\obj\Debug\ProjetoConsultaRiotAPI.csproj.GenerateResource.cache
+C:\Users\Zoio\source\repos\ProjetoConsultaRiotAPI\ProjetoConsultaRiotAPI\obj\Debug\ProjetoConsultaRiotAPI.csproj.CoreCompileInputs.cache
+C:\Users\Zoio\source\repos\ProjetoConsultaRiotAPI\ProjetoConsultaRiotAPI\obj\Debug\ProjetoConsultaRiotAPI.exe
+C:\Users\Zoio\source\repos\ProjetoConsultaRiotAPI\ProjetoConsultaRiotAPI\obj\Debug\ProjetoConsultaRiotAPI.pdb
