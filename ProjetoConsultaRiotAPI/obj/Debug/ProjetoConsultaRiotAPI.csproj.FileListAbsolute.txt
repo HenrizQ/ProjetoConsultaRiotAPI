@@ -8,3 +8,11 @@ C:\Users\Zoio\source\repos\ProjetoConsultaRiotAPI\ProjetoConsultaRiotAPI\obj\Deb
 C:\Users\Zoio\source\repos\ProjetoConsultaRiotAPI\ProjetoConsultaRiotAPI\obj\Debug\ProjetoConsultaRiotAPI.csproj.CoreCompileInputs.cache
 C:\Users\Zoio\source\repos\ProjetoConsultaRiotAPI\ProjetoConsultaRiotAPI\obj\Debug\ProjetoConsultaRiotAPI.exe
 C:\Users\Zoio\source\repos\ProjetoConsultaRiotAPI\ProjetoConsultaRiotAPI\obj\Debug\ProjetoConsultaRiotAPI.pdb
+C:\Users\Zoio\source\repos\ProjetoConsultaRiotAPI\ProjetoConsultaRiotAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zoio\source\repos\ProjetoConsultaRiotAPI\ProjetoConsultaRiotAPI\bin\Debug\RiotSharp.dll
+C:\Users\Zoio\source\repos\ProjetoConsultaRiotAPI\ProjetoConsultaRiotAPI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zoio\source\repos\ProjetoConsultaRiotAPI\ProjetoConsultaRiotAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zoio\source\repos\ProjetoConsultaRiotAPI\ProjetoConsultaRiotAPI\bin\Debug\RiotSharp.pdb
+C:\Users\Zoio\source\repos\ProjetoConsultaRiotAPI\ProjetoConsultaRiotAPI\bin\Debug\RiotSharp.xml
+C:\Users\Zoio\source\repos\ProjetoConsultaRiotAPI\ProjetoConsultaRiotAPI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Zoio\source\repos\ProjetoConsultaRiotAPI\ProjetoConsultaRiotAPI\obj\Debug\ProjetoConsultaRiotAPI.csproj.CopyComplete
